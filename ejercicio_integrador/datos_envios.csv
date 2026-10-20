@@ -1,7 +1,0 @@
-id_envio,cliente,peso_kg,costo_base,tipo
-ENV-001,Farmacia Central,12.5,150.0,REFRIGERADO
-ENV-002,Distribuidora Norte,45.0,320.0,ESTANDAR
-ENV-003,Supermercado Fidalga,120.0,850.0,EXPRESS
-ENV-001,Farmacia Central,12.5,150.0,REFRIGERADO
-ENV-004,Textiles Andinos,-5.0,200.0,ESTANDAR
-ENV-005,Clinica Los Andes,18.0,300.0,REFRIGERADO
